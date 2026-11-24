@@ -4,7 +4,7 @@ Basic Combinational blocks actually wired up and tested on a PYNQ-Z2 board, with
 
 ## Hardware Setup
 
-![pynq-z2 setup](docs/pynq-z2-setup.jpg)
+![pynq-z2 setup](docs/pynq-z2-setup.jpeg)
 
 ## What's Inside
 
